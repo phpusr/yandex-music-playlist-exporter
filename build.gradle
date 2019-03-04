@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'kotlin'
 
 group = 'com.phpusr'
-version = '0.0.1-SNAPSHOT'
+version = '1.0'
 
 compileKotlin {
     kotlinOptions {
