@@ -17,7 +17,7 @@
         JsonPlaylistParser.parse("phpusr", 1077)
     }
 
-Появляется папка "playlists" с txt-файлом нужного плейлиста
+Появляется папка "**playlists**" с **txt-файлом** нужного плейлиста
 
 Теперь переходим на: https://www.tunemymusic.com/ru/
 
